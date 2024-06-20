@@ -48,6 +48,3 @@ jobs:
         dockerfile: Dockerfile
         username: ${{secrets.DOCKER_USERNAME}}
         password: ${{secrets.DOCKER_PASSWORD}}
-
-    - name: AMO
-      run: AMO MURILO DEVOPS
